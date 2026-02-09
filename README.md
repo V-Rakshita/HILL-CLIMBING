@@ -105,19 +105,6 @@ Score: 0  Solution :  Artificial Intelligence<br>
 <hr>
 <h3>Output:</h3>
 <hr>
-<img width="267" height="812" alt="image" src="https://github.com/user-attachments/assets/5c87e5fe-2d75-47aa-ab82-35e166a9152c" />
-
-<img width="282" height="977" alt="image" src="https://github.com/user-attachments/assets/70f1dce1-d2e6-4c75-970d-5b569003acfc" />
-
-<img width="256" height="999" alt="image" src="https://github.com/user-attachments/assets/e30d7d7f-9071-4c73-8fd1-b20b45f0dad6" />
-
-<img width="337" height="986" alt="image" src="https://github.com/user-attachments/assets/7b28cc2e-5fa7-4948-8e57-8c909b580d4e" />
-
-<img width="259" height="1046" alt="image" src="https://github.com/user-attachments/assets/bf7b6a42-0dcc-4f8c-983d-925c7f8a0592" />
-
-<img width="250" height="981" alt="image" src="https://github.com/user-attachments/assets/aaf11f23-c9e3-4d14-9c05-6fb4c00806c6" />
-
-<img width="477" height="942" alt="image" src="https://github.com/user-attachments/assets/1f927c6a-6d44-4f05-81dd-9e1cccc4a5cd" />
 
 
 
